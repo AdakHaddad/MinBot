@@ -67,14 +67,13 @@ export default function Home() {
           <p className="mb-4">
             Kami telah mengembangkan bot WhatsApp khusus untuk memberikan
             pertolongan pertama psikologis. Bot ini dirancang untuk memberikan
-            dukungan awal dan menghubungkan pengguna dengan sumber daya yang
-            tepat.
+            dukungan emosional dan motivasi kepada pelanggan.
           </p>
           <ul className="list-disc list-inside mb-4">
-            <li>Respon cepat untuk situasi krisis</li>
-            <li>Panduan langkah-demi-langkah untuk teknik penenangan diri</li>
-            <li>Rujukan ke profesional kesehatan mental</li>
-            <li>Informasi tentang layanan dukungan lokal</li>
+            <li>Respon cepat untuk pelanggan</li>
+            <li>Panduan penenangan diri</li>
+            <li>Dukungan emosional dan motivasi</li>
+            <li>Representasi teman curhat</li>
           </ul>
           <a
             href="https://wa.me/6285179764631"
@@ -82,7 +81,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Coba Bot Psikologis
+            Psy Therapy
           </a>
         </div>
       </section>
